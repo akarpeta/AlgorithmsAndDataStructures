@@ -1,5 +1,5 @@
 # AlgorithmsAndDataStructures
-Implementation of the Kruskal algorithm
+Implementation of the Kruskal algorithm.
 Project goals:
 1. Network modeling
 Implementation of classes and structures representing the link node and path.
